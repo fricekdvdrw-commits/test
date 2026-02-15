@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF: -1 tvg-id="10-stv1" group-title="Všeobecné", STVR Jednotka
+http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="11-stv2" group-title="Všeobecné", STVR Dvojka
+http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1324-rtvs-24" group-title="Spravodajské", STVR 24
+http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1512-rtvs-sport" group-title="Športové", STVR Šport
+http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="8-markiza" group-title="Všeobecné", Markíza
+http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="33-joj" group-title="Všeobecné", JOJ
+http://212.102.38.45/live/test_joj_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1335-markiza-+1" group-title="Všeobecné", Markíza +1
+http://212.102.38.45/live/test_mpjedna_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1185-joj-+1" group-title="Všeobecné", JOJ +1
+http://212.102.38.45/live/test_jpjedna_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1363-haha-tv" group-title="Všeobecné", HaHa TV
+http://212.102.38.45/live/test_haha_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="683-tv-dajto" group-title="Všeobecné", DajTo
+http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="225-doma" group-title="Všeobecné", Doma
+http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="15402-markiza-krimi" group-title="Všeobecné", Markíza Krimi
+http://212.102.38.45/live/test_markiza_krimi_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="15568-markiza-klasik" group-title="Všeobecné", Markíza Klasik
+http://212.102.38.45/live/markiza_klasik_hevc/index.m3u8
+#EXTINF: -1 tvg-id="206-joj-plus" group-title="Všeobecné", JOJ Plus
+http://212.102.38.45/live/test_pluska_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="15291-joj-sport" group-title="Všeobecné", JOJ Šport
+http://212.102.38.45/live/joj_sport_2_avc/index.m3u8
+#EXTINF: -1 tvg-id="718-wau" group-title="Všeobecné", WAU
+http://212.102.38.45/live/test_wau_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="15441-joj-24" group-title="Všeobecné", JOJ 24
+http://212.102.38.45/live/test_joj_24_atk_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="15509-joj-svet" group-title="Dokumentárne", JOJ Svet
+http://212.102.38.45/live/test_joj_svet/playlist.m3u8
+#EXTINF: -1 tvg-id="1023-joj-cinema" group-title="Filmové", JOJ Cinema
+http://212.102.38.45/live/test_joj_cinema_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1343-joj-cinema-+1" group-title="Filmové", JOJ Cinema +1
+http://212.102.38.45/live/test_cinemapjedna_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="42-ta3" group-title="Spravodajské", TA3
+http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="15482-spark-tv" group-title="Dokumentárne", Spark TV
+http://212.102.38.45/live/test_upnetwork/playlist.m3u8
+#EXTINF: -1 tvg-id="999-jojko" group-title="Detské", Jojko
+http://212.102.38.45/live/test_jojko_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1408-rik-tv" group-title="Detské", RiK TV
+http://212.102.38.45/live/test_rik/playlist.m3u8
+#EXTINF: -1 tvg-id="1245-lala-tv" group-title="Detské", LALA TV
+http://212.102.38.45/live/test_lala_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="15440-turbo-tv" group-title="Detské", Turbo TV
+http://212.102.38.45/live/turbo_tv_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="833-senzi" group-title="Hudobné", Senzi
+http://212.102.38.45/live/test_senzi_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1309-folklorika" group-title="Hudobné", Folklorika
+http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
+#EXTINF: -1 tvg-id="1367-premium" group-title="Hudobné", PREMIUM
+http://212.102.38.45/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF: -1 tvg-id="684-slagr-original" group-title="Hudobné", Šláger Originál
+http://212.102.38.45/live/test_slagr_atk_1200/playlist.m3u8
+#EXTINF: -1 tvg-id="1198-slagr-muzika" group-title="Hudobné", Šláger Muzika
+http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="83-fashiontv" group-title="Lifestylové", Fashion TV Czech & Slovak
+http://212.102.38.45/live/test_fashion_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1205-nasa-tv" group-title="Dokumentárne", NASA TV
+http://212.102.38.45/live/test_nasa_hd_atktv/playlist.m3u8
+#EXTINF: -1 tvg-id="1514-arcadia" group-title="Dokumentárne", Arcadia TV
+https://88.212.7.15/live/arcadia_atk/index.m3u8
+#EXTINF: -1 tvg-id="15471-skvele-tv" group-title="Všeobecné", Skvelé TV
+http://212.102.38.45/live/test_skvele_tv_fhd/playlist.m3u8
+#EXTINF: -1 group-title="Spravodajské", tv NRSR
+https://88.212.7.15/live/test_nrsr/playlist.m3u8
+#EXTINF: -1 tvg-id="191-lux" group-title="Všeobecné", TV LUX
+http://212.102.38.45/live/test_lux_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="114-noe" group-title="Všeobecné", NOE
+http://212.102.38.45/live/test_noe_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="2-ct1" group-title="Všeobecné", ČT1
+http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="3-ct2" group-title="Všeobecné", ČT2
+http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="65-ct24" group-title="Spravodajské", ČT24
+http://212.102.38.45/live/ct24_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="805-ct-:d" group-title="Všeobecné", ČT :D - ČT art
+http://212.102.38.45/live/test_ct_art_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="73-ct4-sport" group-title="Športové", ČT Sport
+http://212.102.38.45/live/test_ct_sport_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1192-seznam.cz-tv" group-title="Všeobecné", Seznam.cz TV
+http://212.102.38.45/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1-nova" group-title="Všeobecné", Nova
+http://212.102.38.45/live/nova_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1125-nova-international" group-title="Všeobecné", Nova International
+http://212.102.38.45/live/test_nova_int_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="132-nova-cinema" group-title="Všeobecné", Nova Cinema
+http://212.102.38.45/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="677-nova-action" group-title="Všeobecné", Nova Action
+http://212.102.38.45/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="712-nova-gold" group-title="Všeobecné", Nova Gold
+http://212.102.38.45/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="707-nova-fun" group-title="Všeobecné", Nova Fun
+http://212.102.38.45/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="15290-nova-lady" group-title="Všeobecné", Nova Lady
+http://212.102.38.45/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="4-prima" group-title="Všeobecné", Prima
+http://212.102.38.45/live/prima_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1162-prima-sk" group-title="Všeobecné", Prima SK
+http://212.102.38.45/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1338-cnn-prima-news" group-title="Spravodajské", CNN Prima News
+http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF: -1 tvg-id="220-prima-cool" group-title="Všeobecné", Prima COOL
+http://212.102.38.45/live/prima_cool_cz_hevc/index.m3u8
+#EXTINF: -1 tvg-id="15562-prima-cool-sk" group-title="Všeobecné", Prima COOL SK
+http://212.102.38.45/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+#EXTINF: -1 tvg-id="1196-prima-krimi" group-title="Všeobecné", Prima Krimi
+http://212.102.38.45/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="496-prima-love" group-title="Všeobecné", Prima Love
+http://212.102.38.45/live/prima_love_cz_hevc/index.m3u8
+#EXTINF: -1 tvg-id="15587-prima-love-sk" group-title="Všeobecné", Prima Love SK
+http://212.102.38.45/live/test_prima_love_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1122-prima-max" group-title="Všeobecné", Prima Max
+http://212.102.38.45/live/test_prima_max_hd_hevc50/playlist.m3u8
+#EXTINF: -1 tvg-id="15292-prima-show" group-title="Všeobecné", Prima SHOW
+http://212.102.38.45/live/prima_show_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1513-prima-star" group-title="Všeobecné", Prima STAR
+http://212.102.38.45/live/prima_star_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="708-prima-zoom" group-title="Všeobecné", Prima ZOOM
+http://212.102.38.45/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1123-paramount-network" group-title="Všeobecné", Paramount Network
+http://212.102.38.45/live/test_paramount_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="15564-dvtv-extra" group-title="Všeobecné", DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF: -1 tvg-id="15558-ok-tv" group-title="Všeobecné", OK TV
+http://212.102.38.45/live/ok_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="215-barrandov" group-title="Všeobecné", Barrandov
+http://212.102.38.45/live/test_barrandov/playlist.m3u8
+#EXTINF: -1 tvg-id="1018-kino-barrandov" group-title="Všeobecné", Kino Barrandov
+http://212.102.38.45/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF: -1 tvg-id="1020-barrandov-krimi" group-title="Všeobecné", Barrandov Krimi
+http://212.102.38.45/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF: -1 tvg-id="716-relax" group-title="Všeobecné", Relax
+http://212.102.38.45/live/test_relax/playlist.m3u8
+#EXTINF: -1 tvg-id="681-a11" group-title="Spravodajské", A11
+http://212.102.38.45/live/test_regionalni_tv/playlist.m3u8
+#EXTINF: -1 group-title="Všeobecné", TV Piánko
+http://212.102.38.45/live/test_pianko/playlist.m3u8
+#EXTINF: -1 tvg-id="200-leo" group-title="Erotické", Leo TV
+http://prague-cache-1.antik.sk/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1241-leo-tv-gold" group-title="Erotické", Leo TV GOLD
+http://prague-cache-1.antik.sk/live/test_leogold_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1138-extasy" group-title="Erotické", Extasy
+http://prague-cache-1.antik.sk/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="205-nova-sport-1" group-title="Športové", Nova Sport 1
+http://212.102.38.45/live/test_ns1_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1038-nova-sport-2" group-title="Športové", Nova Sport 2
+http://212.102.38.45/live/test_ns2_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="9-eurosport-1" group-title="Športové", Eurosport 4K
+http://212.102.38.45/live/esp_4k_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="9-eurosport-1" group-title="Športové", Eurosport 1
+http://212.102.38.45/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF: -1 tvg-id="59-eurosport-2" group-title="Športové", Eurosport 2
+http://212.102.38.45/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF: -1 tvg-id="75-sport1" group-title="Športové", Sport 1
+http://212.102.38.45/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="221-sport2" group-title="Športové", Sport 2
+http://212.102.38.45/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="704-auto-motor-sport" group-title="Športové", Auto Motor und Sport
+http://212.102.38.45/live/test_ams/playlist.m3u8
+#EXTINF: -1 tvg-id="127-golf-channel" group-title="Športové", Golf Channel
+http://212.102.38.45/live/test_golf_channel/playlist.m3u8
+#EXTINF: -1 tvg-id="15549-sporty-tv" group-title="Športové", Sporty TV
+http://212.102.38.45/live/sporty_tv/index.m3u8
+#EXTINF: -1 tvg-id="687-arena-sport-1" group-title="Športové", Arena Sport 1
+http://212.102.38.45/live/test_arenasport/playlist.m3u8
+#EXTINF: -1 tvg-id="800-arena-sport-2" group-title="Športové", Arena Sport 2
+http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
+#EXTINF: -1 tvg-id="15566-yachting-tv" group-title="Športové", Yachting TV
+http://212.102.38.45/live/yachting_tv/index.m3u8
+#EXTINF: -1 tvg-id="1325-superyacht" group-title="Športové", SuperYacht TV
+http://212.102.38.45/live/test_superyacht/playlist.m3u8
+#EXTINF: -1 tvg-id="15510-bbc-earth-(cz)" group-title="Dokumentárne", BBC Earth
+http://212.102.38.45/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="232-national-geographic-hd" group-title="Dokumentárne", National Geographic Channel
+http://212.102.38.45/live/test_ngc/playlist.m3u8
+#EXTINF: -1 tvg-id="106-national-geographic-wild" group-title="Dokumentárne", National Geographic Wild
+http://212.102.38.45/live/test_ngw/playlist.m3u8
+#EXTINF: -1 tvg-id="15-discovery-channel" group-title="Dokumentárne", Discovery
+http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="223-id" group-title="Dokumentárne", ID
+http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF: -1 tvg-id="15322-hgtv" group-title="Lifestylové", HGTV
+http://212.102.38.45/live/test_hgtv_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="104-travel-channel" group-title="Dokumentárne", Travel Channel
+http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="549-tlc" group-title="Lifestylové", TLC
+http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="1039-food-network" group-title="Lifestylové", Food Network
+http://212.102.38.45/live/test_food_network_atk_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="28-animal-planet" group-title="Dokumentárne", Animal Planet
+http://212.102.38.45/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="202-history-channel" group-title="Dokumentárne", History Channel
+http://212.102.38.45/live/test_history/playlist.m3u8
+#EXTINF: -1 tvg-id="1022-history2" group-title="Dokumentárne", History 2
+http://212.102.38.45/live/test_h2/playlist.m3u8
+#EXTINF: -1 tvg-id="832-crime-and-investigation" group-title="Dokumentárne", Crime & Investigation
+http://212.102.38.45/live/test_cai_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1320-love-nature" group-title="Dokumentárne", Love Nature
+http://212.102.38.45/live/test_lovenature/playlist.m3u8
+#EXTINF: -1 tvg-id="15508-tv-doktor" group-title="Všeobecné", Doktor TV
+http://212.102.38.45/live/doktor_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="" group-title="Lifestylové", Kitchen TV
+http://212.102.38.45/live/test_kitchen_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="15472-park-tv" group-title="Dokumentárne", PARK TV
+http://212.102.38.45/live/test_park_tv/playlist.m3u8
+#EXTINF: -1 tvg-id="682-english-club-tv" group-title="Lifestylové", English Club TV
+http://212.102.38.45/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF: -1 tvg-id="62-paprika" group-title="Lifestylové", TV Paprika
+http://212.102.38.45/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="7-spektrum" group-title="Dokumentárne", Spektrum
+http://212.102.38.45/live/test_spektrum/playlist.m3u8
+#EXTINF: -1 tvg-id="77-spektrum-home" group-title="Lifestylové", Spektrum Home
+http://212.102.38.45/live/test_home_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="207-the-fishing-and-hunting" group-title="Dokumentárne", Fishing&Hunting
+http://212.102.38.45/live/test_fishing_hunting/playlist.m3u8
+#EXTINF: -1 tvg-id="15505-story4-(cz)" group-title="Filmové", Story4
+http://212.102.38.45/live/story_4_cze_atk/index.m3u8
+#EXTINF: -1 tvg-id="72-filmbox" group-title="Filmové", FilmBox
+http://212.102.38.45/live/test_filmbox/playlist.m3u8
+#EXTINF: -1 tvg-id="182-filmbox-extra-hd" group-title="Filmové", FilmBox Extra
+http://212.102.38.45/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="592-filmbox-premium" group-title="Filmové", FilmBox Premium
+http://212.102.38.45/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="576-filmbox-family" group-title="Filmové", FilmBox Family
+http://212.102.38.45/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF: -1 tvg-id="76-filmbox-stars" group-title="Filmové", FilmBox Stars
+http://212.102.38.45/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF: -1 tvg-id="982-filmbox-arthouse" group-title="Filmové", FilmBox Arthouse
+http://212.102.38.45/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF: -1 tvg-id="590-fightbox" group-title="Športové", FightBox
+http://212.102.38.45/live/test_fightbox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="734-fashionbox-hd" group-title="Lifestylové", FashionBox
+http://212.102.38.45/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="983-fast&amp;funbox-hd" group-title="Športové", Fast and Funbox
+http://212.102.38.45/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="733-docubox-hd" group-title="Dokumentárne", DocuBox
+http://212.102.38.45/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="841-360tunebox" group-title="Hudobné", 360 TuneBox
+http://212.102.38.45/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="1149-cs-film" group-title="Filmové", CS Film / CS Horror
+http://212.102.38.45/live/test_cs_film_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="717-cs-mystery" group-title="Dokumentárne", CS Mystery
+http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1187-cs-history" group-title="Dokumentárne", CS History
+http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="6-hbo" group-title="Filmové", HBO
+http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="54-hbo2" group-title="Filmové", HBO 2
+http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="115-hbo3" group-title="Filmové", HBO 3
+http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="66-cinemax" group-title="Filmové", Cinemax
+http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="80-cinemax-2" group-title="Filmové", Cinemax 2
+http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="15551-warner-tv" group-title="Filmové", Warner TV
+http://212.102.38.45/live/warner_tv/index.m3u8
+#EXTINF: -1 tvg-id="82-amc" group-title="Filmové", AMC
+http://212.102.38.45/live/test_amc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="68-film+" group-title="Filmové", Film+
+http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="55-axn" group-title="Filmové", AXN
+http://212.102.38.45/live/test_axn/playlist.m3u8
+#EXTINF: -1 tvg-id="126-axn-white" group-title="Filmové", AXN White
+http://212.102.38.45/live/test_white/playlist.m3u8
+#EXTINF: -1 tvg-id="125-axn-black" group-title="Filmové", AXN Black
+http://212.102.38.45/live/test_black/playlist.m3u8
+#EXTINF: -1 tvg-id="228-disney-channel" group-title="Detské", Disney Channel
+http://212.102.38.45/live/test_disney/playlist.m3u8
+#EXTINF: -1 tvg-id="567-disney-junior" group-title="Detské", Disney Junior
+http://212.102.38.45/live/test_disney_junior/playlist.m3u8
+#EXTINF: -1 tvg-id="254-nickelodeon" group-title="Detské", Nickelodeon
+http://212.102.38.45/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF: -1 tvg-id="1314-nicktoons" group-title="Detské", Nicktoons
+http://212.102.38.45/live/test_nicktoons/playlist.m3u8
+#EXTINF: -1 tvg-id="1314-nicktoons" group-title="Detské", Nicktoons HD
+http://212.102.38.45/live/nicktoons_hungary/index.m3u8
+#EXTINF: -1 tvg-id="572-nick-jr." group-title="Detské", Nick Jr.
+http://212.102.38.45/live/test_nick_jr/playlist.m3u8
+#EXTINF: -1 tvg-id="15311-teennick-(pl)" group-title="Detské", TeenNick
+http://212.102.38.45/live/teennick/index.m3u8
+#EXTINF: -1 tvg-id="15313-nickmusic-(pl)" group-title="Hudobné", NickMusic
+http://212.102.38.45/live/nick_music/index.m3u8
+#EXTINF: -1 tvg-id="168-cartoon-network" group-title="Detské", Cartoon Network
+http://212.102.38.45/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF: -1 tvg-id="64-cartoonito" group-title="Detské", Cartoonito
+http://212.102.38.45/live/test_boomerang_tizen/playlist.m3u8
+#EXTINF: -1 tvg-id="137-jim-jam" group-title="Detské", JimJam
+http://212.102.38.45/live/test_jim_jam/playlist.m3u8
+#EXTINF: -1 tvg-id="57-minimax" group-title="Detské", Minimax
+http://212.102.38.45/live/test_minimax/playlist.m3u8
+#EXTINF: -1 tvg-id="150-duck.tv" group-title="Detské", Duck TV
+http://212.102.38.45/live/test_duck_tv_hd_hevc/playlist.m3u8
+#EXTINF: -1 tvg-id="1323-ducktv-plus" group-title="Detské", Duck TV Plus
+http://212.102.38.45/live/test_duck_plus/playlist.m3u8
+#EXTINF: -1 tvg-id="53-ocko" group-title="Hudobné", Óčko
+http://212.102.38.45/live/test_ocko/playlist.m3u8
+#EXTINF: -1 tvg-id="736-ocko-star" group-title="Hudobné", Óčko Star
+http://212.102.38.45/live/test_ocko_star/playlist.m3u8
+#EXTINF: -1 tvg-id="831-ocko-expres" group-title="Hudobné", Óčko Expres
+http://212.102.38.45/live/test_ocko_expres/playlist.m3u8
+#EXTINF: -1 tvg-id="1242-ocko-black" group-title="Hudobné", Óčko Black
+http://212.102.38.45/live/test_ocko_black/playlist.m3u8
+#EXTINF: -1 tvg-id="879-rebel" group-title="Hudobné", Rebel
+http://212.102.38.45/live/test_rebel/playlist.m3u8
+#EXTINF: -1 tvg-id="248-retro-music" group-title="Hudobné", Retro Music TV
+http://212.102.38.45/live/test_rtm/playlist.m3u8
+#EXTINF: -1 tvg-id="30-mtv00s" group-title="Hudobné", MTV 00s
+http://212.102.38.45/live/test_vh1_sd_hevc50/playlist.m3u8
+#EXTINF: -1 tvg-id="39-mtv80s" group-title="Hudobné", MTV 80s
+http://212.102.38.45/live/test_vh_1_classic_1200_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="41-mtv90s" group-title="Hudobné", MTV 90s
+http://212.102.38.45/live/test_mtv_rocks_1200_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="160-club-mtv" group-title="Hudobné", club MTV
+http://212.102.38.45/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF: -1 tvg-id="37-mtv-hits" group-title="Hudobné", MTV Hits
+http://212.102.38.45/live/test_mtv_hits_1200_atk/playlist.m3u8
