@@ -1,0 +1,1 @@
+https://epg.m3u8.cz/xmltv.php?format=xml&fbclid=IwVERDUAP5TqxleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7ERYLQD6E8b7P
